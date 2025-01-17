@@ -2,9 +2,9 @@ package entities;
 
 public class Product {
 	
-	public String name;
-	public double price;
-	public int quantity; // ATRIBUTO
+	private String name;  // ATRIBUTO
+	private double price; // ATRIBUTO
+	private int quantity; // ATRIBUTO
 	
 	public Product() { // CONSTRUTOR PADRÃO
 	}
@@ -19,6 +19,26 @@ public class Product {
 		this.name =  name; 
 		this.price = price;
 		quantity = 0; // OPCIONAL
+	}
+	
+	public String getName() {
+		return name;
+	}
+	
+	public void setName(String name) {
+		this.name = name; 
+	}
+	
+	public double getPrice() {
+		return price;
+	}
+	
+	public void setPrice(double price) { // 'VOID' NÃO RETORNARÁ NADA
+		this.price = price;
+	}
+	
+	public int getQuantity() {
+		return quantity;
 	}
 	
 	public double totalValueInStock() {
