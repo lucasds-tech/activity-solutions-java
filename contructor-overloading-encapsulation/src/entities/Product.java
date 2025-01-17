@@ -6,10 +6,19 @@ public class Product {
 	public double price;
 	public int quantity; // ATRIBUTO
 	
+	public Product() { // CONSTRUTOR PADRÃO
+	}
+	
 	public Product(String name, double price, int quantity) {
 		this.name =  name; // PALAVRA 'THIS' = UMA REFERENCIA PARA O PRÓPRIO OBJETO
 		this.price = price;
 		this.quantity = quantity;
+	}
+	
+	public Product(String name, double price) {
+		this.name =  name; 
+		this.price = price;
+		quantity = 0; // OPCIONAL
 	}
 	
 	public double totalValueInStock() {
