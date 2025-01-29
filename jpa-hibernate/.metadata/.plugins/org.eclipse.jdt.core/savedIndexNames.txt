@@ -1,0 +1,24 @@
+INDEX VERSION 1.134+B:\GitHub\activity-solutions-java\jpa-hibernate\.metadata\.plugins\org.eclipse.jdt.core
+2134618887.index
+4032104904.index
+4207321465.index
+3922905893.index
+64899299.index
+1233981519.index
+1865048315.index
+1484410806.index
+3704865469.index
+282453007.index
+2366718115.index
+3022215016.index
+2875952501.index
+1865797976.index
+838646145.index
+2472744223.index
+474018478.index
+2002066044.index
+158757927.index
+1505861975.index
+3608498232.index
+3968491296.index
+1728200623.index
