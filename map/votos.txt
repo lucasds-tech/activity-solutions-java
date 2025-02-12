@@ -1,0 +1,9 @@
+Bolsonaro,15
+Lula,22
+Tabata,21
+Bolsonaro,30
+Tabata,15
+Lula,27
+Lula,22
+Tabata,25
+Bolsonaro,31
